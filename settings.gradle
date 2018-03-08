@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-demo'
+rootProject.buildFileName = 'build.gradle'
+
